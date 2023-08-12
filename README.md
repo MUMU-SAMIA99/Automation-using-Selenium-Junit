@@ -18,7 +18,6 @@ Give command Gradle clean test
 
 ![Screenshot 2023-08-12 202056](https://github.com/MUMU-SAMIA99/Automation-using-Selenium-Junit/assets/134962568/a9eec41b-dce6-450b-941c-a5f2dfa40bc6)
 ![Screenshot 2023-08-12 202157](https://github.com/MUMU-SAMIA99/Automation-using-Selenium-Junit/assets/134962568/2dfaeaa1-f3da-4eed-865f-e5af37210e9e)
-## Output Video
 
 
 
