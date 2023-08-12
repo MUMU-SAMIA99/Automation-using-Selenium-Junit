@@ -2,7 +2,7 @@
 ## Project Summary
 Automate the webfrom using selenium Junit.
 ## Technology Used
-intelij
+intelij,
 selenium
 ## Framework used
 Junit
@@ -12,7 +12,7 @@ https://www.digitalunite.com/practice-webform-learners
 During the web form submission process, upload any file like ppt or pdf or xlsx etc.
 After successful submission, assert the expected message as: Thank you for your submission!
 ## How to run this project
-Clone this project
+Clone this project,
 Give command Gradle clean test
 ## Report
 
